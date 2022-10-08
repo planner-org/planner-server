@@ -1,4 +1,4 @@
-package com.projects.planner.plannerserver;
+package com.projects.planner.server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
